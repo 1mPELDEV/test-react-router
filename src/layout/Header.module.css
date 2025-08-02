@@ -1,0 +1,11 @@
+nav {
+    width: 100vw;
+    display: flex;
+    justify-content: center;  
+}
+.link{
+    padding: 20px 40px;
+    border-radius: 8px;
+    background-color: #272424;
+    color: #FFF;
+}
